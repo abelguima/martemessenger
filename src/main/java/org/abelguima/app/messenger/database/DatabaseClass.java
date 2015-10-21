@@ -8,6 +8,7 @@ import org.abelguima.app.messenger.model.Robo;
 
 public class DatabaseClass {
 	
+	
 	private static Map<Long, Comando> comandos = new HashMap<>();
 	private static Map<String, Robo> robos = new HashMap<>();
 	
